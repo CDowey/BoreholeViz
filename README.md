@@ -9,4 +9,4 @@ Plotting borehole data derived from well-logging equipment including
 
 Example Plot
 
-[[https://github.com/CDowey/BoreholeViz/blob/master/Fracture_3D_well.png]]
+![[https://github.com/CDowey/BoreholeViz/blob/master/Fracture_3D_well.png]]
