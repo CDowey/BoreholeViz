@@ -7,6 +7,8 @@ Plotting borehole data derived from well-logging equipment including
 - True Borehole position
 - Planar features derived from acoustic televiewer
 
+[View interactive 3D Plotly display](https://nbviewer.jupyter.org/github/CDowey/BoreholeViz/blob/master/BenningtonWells/Borehole_26STL_WellFract.ipynb)
+
 Example Plot
 
 
