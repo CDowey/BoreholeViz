@@ -21,7 +21,7 @@ To plot planar features that intersect the borehole I use orientation informatio
 
 #### Example Plot
 
-![3D_Fracture_Plot](../master/Fracture_3D_well.png)
+![3D_Fracture_Plot](../master/Fractures_26STL.jpg)
 
 [View interactive 3D Plotly display](https://nbviewer.jupyter.org/github/CDowey/BoreholeViz/blob/master/BenningtonWells/Borehole_26STL_WellFract.ipynb)
 
