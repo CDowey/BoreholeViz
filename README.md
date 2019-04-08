@@ -13,13 +13,13 @@ Each geophysical log provides a wealth of information, but it is often overly si
 ### True Borehole Position and Planar Features
 A key component of plotting in x,y,z space is calculating the true position of the borehole. In virutally all cases boreholes are not perfectly vertical and they either purposefully or not deflect from the vertical. To calculate the true position of the borehole at any depth I use a series of equations derived for horizontal drilling.
 
-Example Plot
+#### Example Plot
 
 ![Borehole deviation](../master/BoreholeTilt_37STL.jpg)
 
 To plot planar features that intersect the borehole I use orientation information derived from the acoustic televiewer, optical televiewer, caliper, and other tools to derived the equation for each planar feature. Then I plot these planes along with the true borehole position and often colorize them based on certain properties. This provides a tremendous amount of information in an interactive 3D display. 
 
-Example Plot
+#### Example Plot
 
 ![3D_Fracture_Plot](../master/Fracture_3D_well.png)
 
