@@ -11,7 +11,7 @@ Geophysical logging of drinking water wells is a key component of the Vermont Ge
 Each geophysical log provides a wealth of information, but it is often overly simplified in geologic models and visualizations. By plotting information derived from boreholes in 3D, we can show a large amounts of detail plotted in x,y,z space. We use common structural geologic methods to identify fracture sets and common orientations and plot them using the [Plotly python library](https://plot.ly/python/). This results in interactive 3D plots that greatly aid geologists who interpreting borehole logs by illustrating the details of the logs in x,y,z space. 
 
 ### True Borehole Position and Planar Features
-A key component of plotting in x,y,z space is calculating the true position of the borehole. In virutally all cases boreholes are not perfectly vertical and they either purposefully or not deflect from the vertical. To calculate the true position of the borehole at any depth I use a series of equations derived for horizontal drilling.
+A key component of plotting in x,y,z space is calculating the true position of the borehole. In virutally all cases boreholes are not perfectly vertical and they (either purposefully or not) deflect from the vertical. To calculate the true position of the borehole at depth I use a series of equations derived for horizontal drilling that iteratively calculations the borehole position from the depth, azimuth, and tilt of the borehole, which is recorded at regular intervals.
 
 #### Example Plot
 
