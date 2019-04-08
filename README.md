@@ -3,7 +3,7 @@
 
 Structural geology and drilling calculations combined with 3D Ploty plots.
 
-Plotting borehole data derived from well-logging equipment including
+Plotting borehole data derived from geophysical well-logging equipment including
 - True Borehole position
 - Planar features derived from acoustic televiewer
 
